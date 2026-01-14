@@ -1,6 +1,6 @@
 import time
 
 while True:
-    print("Hello from Jetson OTA v1")
+    print("OTA UPDATE SUCCESS")
     time.sleep(5)
 
